@@ -18,7 +18,7 @@ class calculator extends StatefulWidget {
 
 class _calculatorState extends State<calculator> {
   //variable
-
+//asuigsagas
   double firstNum = 0.0;
   double secondNum = 0.0;
   var input = ' ';
